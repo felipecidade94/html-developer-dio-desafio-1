@@ -29,9 +29,10 @@
          </ul>
       <li><a href="#referencias">Referências</a></li>
    </ul>
+   <h1 id = "historia">História da computação</h1>
+   <small><a href="#inicio">(Voltar)</a></small>  
+   <p>A história recente da computação, desde primeiros computadores até o uso da inteligência artificial (IA)</p>
    <h2 id="geracoes">As 5 gerações dos computadores</h2>
-   <small><a href="#inicio">(Voltar)</a></small>
-      <p>A história recente da computação, desde primeiros computadores até o uso da inteligência artificial (IA)</p>      
       <h3 id="primeiros">Os primeiros computadores</h3>
       Os primeiros computadores eram máquinas enormes que ocupavam salas inteiras e tinham capacidade de processamento muito inferior aos nossos smartphones atuais.
       Os computadores modernos são muito mais rápidos e compactos, graças ao avanço da tecnologia.
