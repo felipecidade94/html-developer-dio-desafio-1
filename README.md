@@ -33,7 +33,7 @@ O site apresenta a seguinte organização:
 ## Como Executar o Projeto
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/felipecidade94/html-developer-dio-desafio-1
+   git clone https://github.com/felipecidade94/pet-clinin.git
    ```
 2. Abra o arquivo `index.html` em qualquer navegador web.
 
