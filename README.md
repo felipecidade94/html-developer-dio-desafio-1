@@ -44,9 +44,8 @@ As informações presentes no site foram baseadas em:
 - [DIO: Plataforma para aprendizado de tecnologia](https://web.dio.me/)
 - Mainardes, Diogo Medeiros. *Entendendo Comunicação Client x Server: Primeiros passos com HTML*
 
-## Autor
-Felipe, estudante da [DIO](https://web.dio.me/) e entusiasta de desenvolvimento web.
+## Contato
 
----
-Este projeto faz parte de um desafio educacional e não possui fins comerciais.
-
+- [GitHub](https://github.com/felipecidade94)
+- [intagram](https://www.instagram.com/felipe.city/)
+- [Linkedin](https://www.linkedin.com/in/cidadefelipe/)
